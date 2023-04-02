@@ -20,7 +20,21 @@
 ***idk what 2 put here***
 
 # Table of Contents
-
+- [Introduction](#introduction)
+- [Information](#information)
+  - [Requirements](#requirements)
+- [Pre-Installation](#pre-installation)
+  - [Steam Setup](#steam-setup)
+- [Wabbajack Installation](#wabbajack-installation)
+  - [Installing Wabbajack](#installing-wabbajack)
+  - [Downloading and Installing Ascalon](#downloading-and-installing-ascalon)
+  - [Nexus Premium vs Non-Premium](##nexus-premium-vs-non-premium)
+- [Save Files](#save-files)
+- [ENB](#enb)
+- [Launching Ascalon](#launching-ascalon)
+- [Contact](#contact)
+- [Big Thanks](#big-thanks)
+  
 
 ## Introduction
 
