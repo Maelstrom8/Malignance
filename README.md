@@ -17,7 +17,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)** 
 
-***I wonder if I should put something here***
+***idk what 2 put here***
 
 # Table of Contents
 
