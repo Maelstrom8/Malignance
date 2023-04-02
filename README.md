@@ -119,7 +119,7 @@ This is assuming you didn't touch anything or you know what you're doing if you 
 
 ### Contact
 
-While my DMs are generally open, I'm **not** always open. Please do not DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.. assuming you have the Ascalon role.
+While my DMs are generally always open, I'm **not**. Don't DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.. assuming you have the Ascalon role.
 
 ### Big Thanks
 
