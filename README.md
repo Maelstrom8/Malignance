@@ -17,7 +17,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)** 
 
-***idk what 2 put here***
+***Select the Ascalon role in the Channels and Role tab***
 
 # Table of Contents
 - [Introduction](#introduction)
