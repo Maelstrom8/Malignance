@@ -66,7 +66,7 @@ If you don't do these steps, issues might arise..
 
 ---
 
-# Wabbajack Instructions
+## Wabbajack Installation
 
 Small little walkthrough for first time WJ installers. Already installed it? Sick. Move to the next relevant point.
 
