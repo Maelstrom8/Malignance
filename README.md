@@ -99,13 +99,12 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
 
----
-
 ## ENB
 
 The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
 
 I have included Rudy's ENB but it lacks some features that v0.476 has. I'm not experienced in the matter so it may be not work. Feel free make your own, or wait until I actually feel like doing so.
+
 
 ### Launching Ascalon
 
@@ -122,6 +121,7 @@ This is assuming you didn't touch anything or you know what you're doing if you 
 ### Thanks/Credits
 
 - Everfall for influencing this list.
-- The DD:DA modding community.
+- Both those currently in the Waking Dreams community and those that used to be.
+- The DD:DA modding community - you guys are insane.
 - Halgari - for making Wabbajack. Wouldn't have been possible otherwise.
 - You, made you look.
