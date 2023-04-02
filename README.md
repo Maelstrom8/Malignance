@@ -29,7 +29,7 @@ Most of Dragon's Dogma's mods are basically people making "tweaks", things such 
 
 I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - sometimes admittedly at the cost of having to help them. I don't give a shit about additions or anything, I'm all for people making changes. If anything, if you can figure out how to do something, more power to you. There's just a few things I ask of you to have.. common sense and general reading comprehension.
 
-***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT. EVERYTHING IS DETAILED IN THIS README, IF YOU DON'T READ IT AND HAVE PROBLEMS, I WILL SHRUG CONDESCENDINGLY***
+***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT. EVERYTHING IS DETAILED IN THIS README, IF YOU DON'T READ IT AND HAVE PROBLEMS, I WILL SHRUG BOTH MENACINGLY AND CONDESCENDINGLY***
 
 ---
 
