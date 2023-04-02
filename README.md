@@ -21,36 +21,36 @@
 # Table of Contents
 
 
-# Introduction
+## Introduction
 
-Ascalon is basically my personal modlist I created for Dragon's Dogma: Dark Arisen while I wait for the sequel. I've been working on it for several months and thought I might share it and well after deciding to share the modlist, it became a dual-purpose modlist. The list aims to provide general enjoyment, educate people on DD:DA mods, and lastly allows people to personalize some of the mods to a degree.
+Ascalon is my personal modlist I created for Dragon's Dogma: Dark Arisen while I wait for the sequel. I've been working on it for several months and thought I might share it and well after deciding to share the modlist, it involved into something.. different. The list aims to provide general enjoyment, educate people on DD:DA mods, and lastly allows people to personalize some of the mods to a degree.
 
-DD:DA has these tweaks I dub "parameter modifications", such as jump height, carry weight, stamina drain while sprinting, quest rewards, changes to augments, stat growth, etc. The base profile will contain none of these, but to offset this, I have remade outdated such mods and made several 'example' versions of these, which will be provided as optionals within the modlist and also explained in this documentation, with easy instructions on merging them into your game. Why?
+Most of Dragon's Dogma's mods are basically people making "tweaks", things such as changing Jump Height, Carry Weight, and things like Augment effects. While modding hasn't changed for this game, they were still made in 2017 and still old. I remade a lot of these mods to because I wanted to streamline various factors. I included them in the modlist as templates with instructions on how to install them.. why?
 
-I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - admittedly at the cost of explaining it to them. I do not give a shit if people want to change something in the game, it is a mostly a singleplayer game. I believe you should have the power to - granted you know how to do it.
+I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - sometimes admittedly at the cost of having to help them. I don't give a shit about additions or anything, I'm all for people making changes. If anything, if you can figure out how to do something, more power to you. There's just a few things I ask of you to have.. common sense and general reading comprehension.
 
-That being said.. ***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT.***
+***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT. EVERYTHING IS DETAILED IN THIS README, IF YOU DON'T READ IT AND HAVE PROBLEMS, I WILL SHRUG CONDESCENDINGLY***
 
 ---
 
-### Gameplay & Modding Documentation
+## Information
 
-- If you want to see which mods used in Ascalon - see [Gameplay Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Gameplay%20Documentation.md)
-- If you want to learn how to modify this list - see [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md)
+Ascalon features a small amount of mods because the game doesn't really have a banging modding community, or should I say available tools. It's an old game.
 
-# Requirements 
+- If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Gameplay%20Documentation.md)
+- If you want to get into the modding aspects of this list - see [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md)
+- If there is anything else you are looking for, see the very top of the page.
 
-You need to own a legitimate copy of Dragon's Dogma: Dark Arisen. Also, your installation needs to be clean / unmodified. 
+## Requirements 
 
-For the base game's requirements.. it's 6 years old or even older probably. If you have a computer that wasn't built 20 years ago, you should be able to run it at 60 fps.
+- A legitimate and unmodified copy of Dragon's Dogma: Dark Arisen through Steam. I do not support GOG and never will.
+- Preferably a fresh save, do not use your existing saves with this modlist (more explained later)
 
-# ENB
+#### System Requirements
 
-The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
+The game is over 7 years old. It's not that demanding of a game, at all.. even with mods. Have something that isn't a potato and you'll be fine. 
 
-I have included Rudy's ENB but it lacks the features that v0.476 has. I'm not experienced in the matter so it may be not work. Feel free to use this to make your own, it's not something I personally want to spend time on right now.
-
-# Installation
+## Pre-Installation
 
 ### Microsoft Visual C++ Redistributable Package
 
@@ -58,9 +58,11 @@ MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Downl
 
 ### Steam Setup
 
-Ascalon requires a clean/unmodified Dragon's Dogma: Dark Arisen. Verify your files via the properties to do so.
+If you don't do these steps, issues might arise..
 
-Also, the list only works through a legit copy of DD:DA through Steam. I do not support other platforms like GOG and never will.
+- Making sure your game is clean / unmodified. If it's not, you can verify your files.
+- Set Language to English
+- Disable the Steam Overlay
 
 ---
 
@@ -72,7 +74,7 @@ Small little walkthrough for first time WJ installers. Already installed it? Sic
 
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your DD:DA directory. Do not extract it to Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
 
-### Installing Ascalon 
+### Downloading and Installing Ascalon 
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
@@ -93,25 +95,29 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 ## Save Files
 
-### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods. This modlist is designed for a new save**
+### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it, whether or not you have mods. This modlist is designed for a new save**
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
 
-
 ---
 
+## ENB
+
+The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
+
+I have included Rudy's ENB but it lacks some features that v0.476 has. I'm not experienced in the matter so it may be not work. Feel free make your own, or wait until I actually feel like doing so.
+
 ### Launching Ascalon
+
+This is assuming you didn't touch anything or you know what you're doing if you changed anything.
 
 1. Launch the copy of Mod Organizer 2 found inside your Ascalon folder.
 2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Dragon's Dogma should be automatically selected. If it is not, select it.
 3. Click the large Run button.
 4. This is how you launch the modlist, don't launch it through Steam.
+5. The game will appear to be stuck for up to a minute, let it load.. that's ENB loading.
 
 ---
-
-### Bugs / Install Help
-
-See the relevant channel on the Waking Dreams Discord
 
 ### Thanks/Credits
 
