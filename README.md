@@ -104,7 +104,7 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
 
-I have included Rudy's ENB but it lacks some features that v0.476 has. I'm not experienced in the matter so it may be not work. I wanted to make my own, but i haven't done so yet because I generally care about gameplay over graphics, and I haven't gotten to it yet. Feel free to make your own if you want in the meantime.
+I have included Rudy's ENB but it lacks some features that v0.476 has. I planned to make my own, but I haven't gotten around to doing so as I'm not very experienced in the matter plus I generally care more about gameplay over graphics. You are encouraged to make your own.
 
 ### Launching Ascalon
 
