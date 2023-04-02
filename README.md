@@ -4,8 +4,9 @@
 <p align="center">
   [ <a href="">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Gameplay%20Documentation.md">Gameplay Doc</a> |
-  <a href="">Modding Doc</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Modding%20Documentation.md">Modding Doc</a> |
   <a href="">Load Order Library</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://ko-fi.com/maelstrom_">Ko-fi</a> ]
 </p>
@@ -116,7 +117,9 @@ This is assuming you didn't touch anything or you know what you're doing if you 
 4. This is how you launch the modlist, don't launch it through Steam.
 5. The game will appear to be stuck for up to a minute, let it load.. that's ENB loading.
 
----
+### Contact
+
+While my DMs are generally open, I'm **not**. Please do not DM me for support or anything that is not already covered in the FAQ or the changelog. Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.
 
 ### Thanks/Credits
 
