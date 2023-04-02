@@ -119,9 +119,9 @@ This is assuming you didn't touch anything or you know what you're doing if you 
 
 ### Contact
 
-While my DMs are generally open, I'm **not**. Please do not DM me for support or anything that is not already covered in the FAQ or the changelog. Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.
+While my DMs are generally open, I'm **not**. Please do not DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.
 
-### Thanks/Credits
+### Big Thanks
 
 - Everfall for influencing this list.
 - Both those currently in the Waking Dreams community and those that used to be.
