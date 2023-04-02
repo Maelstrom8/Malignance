@@ -61,7 +61,7 @@ MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Downl
 
 If you don't do these steps, issues might arise..
 
-- Making sure your game is clean / unmodified. If it's not, you can [verify your files.]([https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/Verify.png).
+- Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/Verify.png).
 - Set Language to [English](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/English.png).
 - Disable the [Steam Overlay](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Steam%20Overlay.png).
 
