@@ -55,15 +55,15 @@ The game is over 7 years old. It's not that demanding of a game, at all.. even w
 
 ### Microsoft Visual C++ Redistributable Package
 
-MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Download it.](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Download it](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 ### Steam Setup
 
 If you don't do these steps, issues might arise..
 
-- Making sure your game is clean / unmodified. If it's not, you can verify your files.
-- Set Language to English
-- Disable the Steam Overlay
+- Making sure your game is clean / unmodified. If it's not, you can [verify your files.]([https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/Verify.png).
+- Set Language to [English](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/English.png).
+- Disable the [Steam Overlay](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Steam%20Overlay.png).
 
 ---
 
@@ -119,7 +119,7 @@ This is assuming you didn't touch anything or you know what you're doing if you 
 
 ### Contact
 
-While my DMs are generally open, I'm **not**. Please do not DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.
+While my DMs are generally open, I'm **not** always open. Please do not DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.. assuming you have the Ascalon role.
 
 ### Big Thanks
 
