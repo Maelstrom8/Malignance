@@ -1,6 +1,5 @@
-# Ascalon
 
-![Ascalon](https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/unknown.png)
+![](https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/unknown.png)
 
 ---
 
