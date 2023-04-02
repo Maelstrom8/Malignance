@@ -1,5 +1,5 @@
 
-![](https://github.com/Oghma-Infinium/Ascalon/blob/main/Media/Ascalon.webp?raw=true)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.webp)
 
 <p align="center">
   [ <a href="">Installation</a> |
