@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.png)
 
 <p align="center">
   [ <a href="">Installation</a> |
@@ -59,6 +59,9 @@ Ascalon features a small amount of mods because the game doesn't really have a b
 
 - A legitimate and unmodified copy of Dragon's Dogma: Dark Arisen through Steam. I do not support GOG and never will.
 - Preferably a fresh save, do not use your existing saves with this modlist (more explained later)
+- You need about 50GB of space for this list
+   - 20GB for Dragon's Dogma: Dark Arisen
+   - 14.13GB for the downloads + 14.54GB for the installs
 
 #### System Requirements
 
