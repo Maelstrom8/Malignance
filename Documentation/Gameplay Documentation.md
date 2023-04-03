@@ -1,3 +1,12 @@
+<p align="center">
+  [ <a href="">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Gameplay%20Documentation.md">Gameplay Doc</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Modding%20Documentation.md">Modding Doc</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://ko-fi.com/maelstrom_">Ko-fi</a> ]
+</p>
+
 # Gameplay Documentation
 
 I did not really mention it in the primary readme, but while Ascalon is a lightly modded list with educational purposes, it is also a list that is partially made up of mods from the user [LDKSuperDante](https://www.nexusmods.com/dragonsdogma/users/23347084). I really like the cut of his jib. I strive to include as much as I can from him, granted they are up to date.
