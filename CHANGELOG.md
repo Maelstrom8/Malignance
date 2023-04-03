@@ -14,6 +14,15 @@
 # Changelog
 
 - [0.1.5](#015)
+- [0.1.5.1](#0151)
+
+## 0.1.5.1
+
+### Added
+
+- With Fire (Reshade Preset)
+    - For those who have trouble loading with ENB, or have a different taste for visuals
+
 
 ## 0.1.5
 
