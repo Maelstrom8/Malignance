@@ -54,6 +54,8 @@ And then we have the ARCTool Output. This consists of these main archives: bbs_r
 
 **Some of the "enabled" mods do not do anything in Mod Organizer 2 if they are purely in loose form, as in they are an archive file unpacked - they are already merged, please don't touch any of them unless you know what you are doing**
 
+PS. I didn't mention this above, but uhm... considering my list isn't perfect.. the ARCTool Output also has the 'stages' from the base game copied into it, so it's a little bigger than it should and I'm not sure I needed to include these. The only mod I know that modifies the stage folder that i use is A Fortress Beieged but it only touches stage330.arc and not.. stage100-800 y'know? We'll leave it for now.
+
 ---
 
 ### A Deeper Look Into Archives
