@@ -88,16 +88,16 @@
   
   #### Optional Mods >>>> SEE README
   
-  - Chainmail Textures - 6K
-  - Black Retextures for Armors
-  - Condemned Gore Cyclops on Gransys
+  - Chainmail Textures - 6K <<< NOT ENABLED
+  - Black Retextures for Armors <<< NOT ENABLED
+  - Condemned Gore Cyclops on Gransys <<< NOT ENABLED
   
   #### Experimental Mods >>>> SEE MODDING DOCUMENTATION
   
-  - DDDA dinput8 3.5.0
-  - Greatsword MAX
-  - End Game Elemental Swords (1H)
-  - DDDA Tweak Templates
+  - DDDA dinput8 3.5.0 <<< NOT ENABLED
+  - Greatsword MAX <<< NOT ENABLED
+  - End Game Elemental Swords (1H) <<< NOT ENABLED
+  - DDDA Tweak Templates <<< NOT ENABLED
   
   #### ENB
   
