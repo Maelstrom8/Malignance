@@ -1,3 +1,13 @@
+<p align="center">
+  [ <a href="">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Gameplay%20Documentation.md">Gameplay Doc</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Modding%20Documentation.md">Modding Doc</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://ko-fi.com/maelstrom_">Ko-fi</a> ]
+</p>
+
+
 I will cover a lot of things involving how to mod the game, how mods interact, what the effects are, and other things. It will be a bit long so get some fuckin snacks and shit cause this is gonna be like the superb owl of documentation
 
 ## Dragon's Dogma & Mod Organizer 2
