@@ -39,7 +39,7 @@
 
 Ascalon is my personal modlist I created for Dragon's Dogma: Dark Arisen while I wait for the sequel. I've been working on it for several months and thought I might share it and well after deciding to share the modlist, it involved into something.. different. The list aims to provide general enjoyment, educate people on DD:DA mods, and lastly allows people to personalize some of the mods to a degree.
 
-Most of Dragon's Dogma's mods are basically people making "tweaks", things such as changing Jump Height, Carry Weight, and things like Augment effects. While modding hasn't changed for this game, they were still made in 2017 and still old. I remade a lot of these mods to because I wanted to streamline various factors. I included them in the modlist as templates with instructions on how to install them.. why?
+Most of Dragon's Dogma's mods are basically people making "tweaks", things such as changing Jump Height, Carry Weight, and things like Augment effects. While modding hasn't changed for this game, they were still made in 2017 and still old. I remade a lot of these mods to because I wanted to streamline various factors. I've included them in the modlist as templates with instructions on how to install them.. why?
 
 I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - sometimes admittedly at the cost of having to help them. I don't give a shit about additions or anything, I'm all for people making changes. If anything, if you can figure out how to do something, more power to you. There's just a few things I ask of you to have.. common sense and general reading comprehension.
 
