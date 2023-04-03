@@ -16,6 +16,10 @@
 - [0.1.5](#015)
 - [0.1.5.1](#0151)
 
+### Information
+
+ - The following changelog should give you an idea of what mods I use, add or remove.. etc
+
 ## 0.1.5.1
 
 ### Added
@@ -25,10 +29,6 @@
 
 
 ## 0.1.5
-
-### Information
-
- - The following changelog should give you an idea of what mods I use, add or remove.. etc
 
 <Details>
 
