@@ -13,12 +13,23 @@
 
 # Changelog
 
+- (0.1.8)(#018)
 - [0.1.5](#015)
 - [0.1.5.1](#0151)
 
 ### Information
 
  - The following changelog should give you an idea of what mods I use, add or remove.. etc
+
+## 0.1.8
+
+### Added / Removed
+
+- Nothing was technically added or removed, but I moved `Pawn Stars` to the Optional section because that mod replaces offline pawns with entirely female pawns. I recommend checking the mod's description on Nexus. You can enable/disable at any point.
+
+### Fixes
+
+- It has been brought to my attention that two mods were not properly installed or loading. The files within `Don't Blind me` and `HD HP Custom GUI Textures and Icons Overhaul` had the wrong extension. I did not check them at the time I installed / merged them. They were *not* overwriting/replacing the proper files as they had a numbered suffix instead of .tex. Amazing. They were properly renamed and merged. They should work.
 
 ## 0.1.5.1
 
