@@ -118,11 +118,13 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
 
-## ENB
+## ENB / Reshade
 
-The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
+The list includes ENBSeries v0.476, along with a preset meant for an older version. They are both disabled. The list comes with the Reshade preset `With Fire - Reshade`.
 
-I have included Rudy's ENB but it lacks some features that v0.476 has. I planned to make my own, but I haven't gotten around to doing so as I'm not very experienced in the matter plus I generally care more about gameplay over graphics. You are encouraged to make your own.
+I wanted to my own preset for ENB, but I never got around to it. I also don't really care for ENB / Reshade these days for DD:DA for I think the game looks fine the way it is, plus there are resolution issues with them. You are free to make your own.
+
+PS: Use either ENB or Reshade.
 
 ### Launching Ascalon
 
