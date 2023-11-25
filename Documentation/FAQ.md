@@ -9,6 +9,6 @@
 
 # Frequently Asked Questions
 
-## Q: When are you going to make a list of commonly asked questions?
+## Q: Is the FAQ going to be updated to include frequently asked questions?
 
-> ..Hard to say, because the most commonly asked question(s) are covered on the readme
+> A: Unlikely because the readme covers most of what I care to explain
