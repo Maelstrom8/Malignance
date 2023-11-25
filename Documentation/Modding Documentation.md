@@ -32,19 +32,19 @@ And then we have the ARCTool Output. This consists of these main archives: bbs_r
 - **DDO Combat Music Project** is merged into bbs_rpg.arc
     - Loose: `bbs_rpg\sound\stream\bgm\bgm.stq`
 - **Don't Blind Me - Medium Full** is merged into bbsrpg_core.arc
-    - Loose: `bbsrpg_core\effect\tex\cm\t_cm000_00_GM.241F5DEB`
-    - Loose: `bbsrpg_core\effect\tex\cm\t_cm040_00_GM.241F5DEB`
+    - Loose: `bbsrpg_core\effect\tex\cm\t_cm000_00_GM.tex`
+    - Loose: `bbsrpg_core\effect\tex\cm\t_cm040_00_GM.tex`
 - **HD HP Custom GUI / Icon Overhaul** is merged into bbsrpg_core.arc and game_main arc respectively
-    - Loose: `bbsrpg_core\id\cockpit\cockpit1_HQ_ID.241F5DEB`
-    - Loose: `bbsrpg_core\id\minimap\mapicon_ID.241F5DEB`
-    - Loose: `game_main\id\common\cate_icon\cate_icon_ID.241F5DEB`
-    - Loose: `game_main\id\common\cate_icon\cate_icon00_ID.241F5DEB`
-    - Loose: `game_main\id\common\job_icon_ID.241F5DEB`
-    - Loose: `game_main\id\common\joutai_ijo_ID.241F5DEB`
-    - Loose: `game_main\id\common\suji_ID.241F5DEB`
-    - Loose: `game_main\id\minimap\mini_back_ID.241F5DEB`
-    - Loose: `game_main\id\minimap\mini_mask_ID.241F5DEB`
-    - Loose: `game_main\id\npc_wind\npc_mark_ID.241F5DEB`
+    - Loose: `bbsrpg_core\id\cockpit\cockpit1_HQ_ID.tex`
+    - Loose: `bbsrpg_core\id\minimap\mapicon_ID.tex`
+    - Loose: `game_main\id\common\cate_icon\cate_icon_ID.tex`
+    - Loose: `game_main\id\common\cate_icon\cate_icon00_ID.tex`
+    - Loose: `game_main\id\common\job_icon_ID.tex`
+    - Loose: `game_main\id\common\joutai_ijo_ID.tex`
+    - Loose: `game_main\id\common\suji_ID.tex`
+    - Loose: `game_main\id\minimap\mini_back_ID.tex`
+    - Loose: `game_main\id\minimap\mini_mask_ID.tex`
+    - Loose: `game_main\id\npc_wind\npc_mark_ID.tex`
 - **Easy Clothing ID with HD Icons** is merged into game_main.arc. 
     - Loose: `game_main\dl1\id\common\item\combinedItemIcon_ID.tex`
 - **Cleaner Female/Male Body Textures** is merged into game_main.arc and title.arc. Contains an update for HD Icons so it overwrites the others.
