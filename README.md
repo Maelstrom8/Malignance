@@ -36,13 +36,16 @@
 
 ## Introduction
 
-Ascalon is my personal modlist I created for Dragon's Dogma: Dark Arisen while I wait for the sequel. I've been working on it for several months and thought I might share it and well after deciding to share the modlist, it involved into something.. different. The list aims to provide general enjoyment, educate people on DD:DA mods, and lastly allows people to personalize some of the mods to a degree.
+After I learned that Dragon's Dogma had mods & Mod Organizer 2 support, I knew I had to throw something together for myself - I never played with mods before. Skipping ahead a little, I educated myself on learning what the modding scene in Dragon's Dogma was like and to figure out what could be made. It's not really great, most 'mods' are people editing the same files that are locked behind compressed archives (aside from texture upscales and what not). You don't really own anything, can't really make anything new. The most common mods are what I would call tweaks, that were relative to changing player and pawn parameters, or game settings as well - things such as Jump Height, Carry Weight.. XP, Gold.. and Augments. 
 
-Most of Dragon's Dogma's mods are basically people making "tweaks", things such as changing Jump Height, Carry Weight, and things like Augment effects. While modding hasn't changed for this game, they were still made in 2017 and still old. I remade a lot of these mods to because I wanted to streamline various factors. I've included them in the modlist as templates with instructions on how to install them.. why?
+A lot of the mods uploaded to Nexus in 2016 - 2017 weren't uploaded with accessibility in mind, which I don't blame because most of them either didn't know what they were doing and the fact that modding this game is quite the task. I took several types of mods and I remade them in a way that they were much easier to understand, easier to install and easier to customize. 
 
-I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - sometimes admittedly at the cost of having to help them. I don't give a shit about additions or anything, I'm all for people making changes. If anything, if you can figure out how to do something, more power to you. There's just a few things I ask of you to have.. common sense and general reading comprehension.
+With the creation of these mods, and the creation of a documentation covering (at least what I know) modding DD:DA, a list was born - Ascalon. It is a pretty standard list, that functions more as an educational / development purpose. I have provided means to customize this list and or make your own versions of tweaks.. if you read my documentation and know what you are doing.
 
-***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT. EVERYTHING IS DETAILED IN THIS README, IF YOU DON'T READ IT AND HAVE PROBLEMS, I WILL SHRUG BOTH MENACINGLY AND CONDESCENDINGLY***
+
+***WARNING***: 
+
+**If you are going to *modify* the list, it is imperative that you read this entire readme and all documentation top to bottom - even two times if you need to. This game has online features (the pawn sharing), depending on certain conditions.. if you modify certain parts of the game, bad things can happen to your Pawn. I won't and honestly can't be held responsibie.**
 
 ---
 
@@ -52,7 +55,7 @@ Ascalon features a small amount of mods because the game doesn't really have a b
 
 - If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Gameplay%20Documentation.md)
 - If you want to get into the modding aspects of this list - see [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md)
-- If there is anything else you are looking for, see the very top of the page.
+- If there is anything else you are looking for, refer to the links at the very top?
 
 ## Requirements 
 
