@@ -9,5 +9,6 @@
 
 # Frequently Asked Questions
 
-Q: When are you going to make a list of commonly asked questions?
-A: Hard to say, because the most commonly asked question is covered on the readme
+## Q: When are you going to make a list of commonly asked questions?
+
+> A: Hard to say, because the most commonly asked question is covered on the readme
