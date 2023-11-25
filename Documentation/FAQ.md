@@ -11,4 +11,4 @@
 
 ## Q: Is the FAQ going to be updated to include frequently asked questions?
 
-> A: Unlikely because the readme covers most of what I care to explain
+> A: Unlikely because the readme covers generally everything I care to explain
