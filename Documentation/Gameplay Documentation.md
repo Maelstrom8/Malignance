@@ -27,7 +27,6 @@ I was almost going to include the optimized nude mod, but I was able to stop mys
 
 - [A Fortress Besieged Quest Improved Boss Fight](https://www.nexusmods.com/dragonsdogma/mods/683) -- Small adjustment to a quest to make it more interesting
 - [Spell Mod Pack](https://www.nexusmods.com/dragonsdogma/mods/379) -- Not a literal "spell mod pack", you can't make new stuff, this just changes the existing spells a little
-- [Pawn Stars](https://www.nexusmods.com/dragonsdogma/mods/87) -- Enhances offline pawns.
 
 ## Main Menu / Audio
 
@@ -60,6 +59,8 @@ These are not enabled, but included as optionals within the list.
 - [Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it appears that you can either use this or LDK's Armory, so I'd uhh, yeah. Also I wasn't sure if I wanted to turn a lot of stuff black.
 - [Chainmail Textures 6K](https://www.nexusmods.com/dragonsdogma/mods/479) -- I wanted to use this, but old notes about 6K textures causes crashing scare me. Feel free to use if you want.
 - [Condemned Gore Cyclops in Gransys](https://www.nexusmods.com/dragonsdogma/mods/838) -- This places two very strong Bitterblack Isle monsters on the main map, in a specific spot - see the mod page. New players and veterans alike.. you can enable this if you want more of a challenge, more of an "ooph" for your gameplay.
+- [Pawn Stars](https://www.nexusmods.com/dragonsdogma/mods/87) -- Moved here and made optional. This enhances offline pawns by making them all female..? You can enable / disable at any time, see mod page.
+- Optimized Nude Mod -- I have any links for this, but you can look it up. I also have no support for it.
 
 ## LIST MODIFICATIONS
 
