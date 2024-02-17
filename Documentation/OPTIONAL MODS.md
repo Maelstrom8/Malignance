@@ -25,7 +25,8 @@ Before you do anything, go to `tools` and extract ARCTool Simplified to a workin
 
 This mod can be viewed as an editor of some sorts. I don't use it but it could be useful. Required for [Greatsword MAX](https://www.nexusmods.com/dragonsdogma/mods/474).
 
-Installation: just enable it, it's installed as a root mod. You will likely have to configure the settings. Pawn safe? No idea.
+*Installation*
+- dinput8: Just enable it, it's installed as a root mod. You will likely have to configure the settings. Pawn safe? No idea.
 
 ## Optional Mods - Skills & Augments
 
@@ -35,7 +36,7 @@ Installation: just enable it, it's installed as a root mod. You will likely have
 Greatsword MAX is a mod that overhauls Warrior skills. Requires dinput8. Probably cool, never used it.
 Better Augments is a mod I made that tweaks most of the augments, see the nexus page for more info.
 
-Installation
+*Installation*
 - Greatsword MAX: Inside of `Loose Mod Files`, copy `game_main\param\pl\other\m_pl000_Gsword.ajp` into your unpacked game_main archive - follow the video above. Enable the mod (due to it having a rom folder)
-- Better Augments: Inside of `Loose Mod Files`, copy `game_main\param\pl\other\PIAbilityParam.ablparam.xml` into your unpacked game_main archive - follow the video above. You can enable it if you want but it doesn't NEED to be
+- Better Augments: Inside of `Loose Mod Files`, copy `game_main\param\pl\other\PIAbilityParam.ablparam.xml` into your unpacked game_main archive - follow the video above. You can enable it if you want but it doesn't NEED to be. THIS MOD IS NOT PAWN SAFE.
 
