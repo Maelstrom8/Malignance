@@ -120,4 +120,4 @@ So again, if you want to use this mods and be safe, just set your pawn to privat
 
 ## YO I WANT TO LEARN ABOUT THE OPTIONAL MODS
 
-Not exactly the wrong documentation, but you want to go to 
+Not exactly the wrong documentation but you're looking for [this page](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md).
