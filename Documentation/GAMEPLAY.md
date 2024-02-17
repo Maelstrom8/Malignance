@@ -23,7 +23,6 @@ I was almost going to include the optimized nude mod, but I was able to stop mys
 - [HD HP - Custom GUI Textures/Icon Overhaul](https://www.nexusmods.com/dragonsdogma/mods/97) -- Self-explanatory.
 - [Easy Clothing ID and HD Icons](https://www.nexusmods.com/dragonsdogma/mods/479) -- LDK's combination of Easy Clothing ID & HD Icons. Note: I think I got his update to this from Cleaner Female Body Textures.
 - [Remove Screenshot Watermark](https://www.nexusmods.com/dragonsdogma/mods/7) -- Self-explanatory
-- [Community Compass Overhaul](https://www.nexusmods.com/dragonsdogma/mods/74) -- I use the "vj88's EVwS" version.
 - [Vignette Remover](https://www.nexusmods.com/dragonsdogma/mods/942) -- I actually use a pre-modded version, which is like 3.7GB.. sorry D: 
 
 
@@ -51,7 +50,7 @@ These contain texture improvements for Gran Soren and Gransys. The resolution is
 
 ## Reshade
 
-Basically E3FX and With Fire. I use E3FX by default.
+- Basically E3FX and With Fire. I use E3FX by default.
 
 ---
 
