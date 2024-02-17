@@ -15,7 +15,7 @@
 
 **Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)** 
 
-***Select the Ascalon role in the Channels and Role tab***
+***Select the Malignance role in the Channels and Role tab***
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -29,19 +29,16 @@
   - [Nexus Premium vs Non-Premium](##nexus-premium-vs-non-premium)
 - [Save Files](#save-files)
 - [ENB](#enb)
-- [Launching Ascalon](#launching-ascalon)
+- [Launching Malignance](#launching-ascalon)
 - [Contact](#contact)
 - [Big Thanks](#big-thanks)
   
 
 ## Introduction
 
-After I learned that Dragon's Dogma had mods & Mod Organizer 2 support, I knew I had to throw something together for myself - I never played with mods before. Skipping ahead a little, I educated myself on learning what the modding scene in Dragon's Dogma was like and to figure out what could be made. It's not really great, most 'mods' are people editing the same files that are locked behind compressed archives (aside from texture upscales and what not). You don't really own anything, can't really make anything new. The most common mods are what I would call tweaks, that were relative to changing player and pawn parameters, or game settings as well - things such as Jump Height, Carry Weight.. XP, Gold.. and Augments. 
+Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that is designed to be a base for extensive tweaking/customization. This is basically just Ascalon but slightly revised. I previously tossed this in the garbage due to the fact that Dragon's Dogma II is releasing in less than 2 months and I would likely not really care at all about it anymore, but I have decided to instead re-do the entire list and keep it up because it's extremely easy to maintain.
 
-A lot of the mods uploaded to Nexus in 2016 - 2017 weren't uploaded with accessibility in mind, which I don't blame because most of them either didn't know what they were doing and the fact that modding this game is quite the task. I took several types of mods and I remade them in a way that they were much easier to understand, easier to install and easier to customize. 
-
-With the creation of these mods, and the creation of a documentation covering (at least what I know) modding DD:DA, a list was born - Ascalon. It is a pretty standard list, that functions more as an educational / development purpose. I have provided means to customize this list and or make your own versions of tweaks.. if you read my documentation and know what you are doing.
-
+I recommend reading the entirety of the readme. If you don't, I will likely ignore you even more than usual if you have any questions that I potentially cover.
 
 ***WARNING***: 
 
@@ -51,20 +48,21 @@ With the creation of these mods, and the creation of a documentation covering (a
 
 ## Information
 
-Ascalon features a small amount of mods because the game doesn't really have a banging modding community, or should I say available tools. It's an old game.
+Malignance features a small amount of mods because the game doesn't really have a banging modding community, or should I say available tools. It's an old game.
 
 - If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Gameplay%20Documentation.md)
 - If you want to get into the modding aspects of this list - see [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md)
+- If you want to get into the optional mods - see LINK HERE
 - If there is anything else you are looking for, refer to the links at the very top?
 
 ## Requirements 
 
 - A legitimate and unmodified copy of Dragon's Dogma: Dark Arisen through Steam. I do not support GOG and never will.
 - Preferably a fresh save, do not use your existing saves with this modlist (more explained later)
-- You need about 50GB of space for this list
-   - 20GB for Dragon's Dogma: Dark Arisen
-   - 14.13GB for the downloads + 14.54GB for the installs
-
+- You need around 36 GB of space for this list
+   - 20 GB for Dragon's Dogma: Dark Arisen
+   - 16 GB for the list (8 GB download and 8 GB install)
+  
 #### System Requirements
 
 The game is over 7 years old. It's not that demanding of a game, at all.. even with mods. Have something that isn't a potato and you'll be fine. 
@@ -93,18 +91,18 @@ Small little walkthrough for first time WJ installers. Already installed it? Sic
 
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your DD:DA directory. Do not extract it to Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
 
-### Downloading and Installing Ascalon 
+### Downloading and Installing Malignance
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
-3. Find Ascalon, click the download button below the gallery image and wait for it to download.
-4. Set the installation folder to be somewhere like C:\Games\Ascalon. Follow the directory rules above.
+3. Find Maligance, click the download button below the gallery image and wait for it to download.
+4. Set the installation folder to be somewhere like C:\Games\Maligance. Follow the directory rules above.
 5. Press the play button to begin.
 6. In the small time it takes to install, I recommend you spend your time reading this readme - as it's more important than your average readme
 7. ???
 8. Profit
 
-Updating Ascalon is done the same way, just make sure your directories match where it's installed and hit overwrite.
+Updating the list is done the same way, just make sure your directories match where it's installed and hit overwrite.
 
 ### Nexus Premium vs Non-Premium
 
@@ -120,30 +118,31 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 ## ENB / Reshade
 
-The list includes ENBSeries v0.476, along with a preset meant for an older version. They are both disabled. The list comes with the Reshade preset `With Fire - Reshade`.
+Due to the fact that I am not really a visuals snob and think the game looks good enough, I didn't really bother much in this department.
 
-I wanted to my own preset for ENB, but I never got around to it. I also don't really care for ENB / Reshade these days for DD:DA for I think the game looks fine the way it is, plus there are resolution issues with them. You are free to make your own.
+I provided two separate Reshade presets that people can mess around with, but that's it. If you have any questions, don't ask them to me because this isn't something I really care about (learning) for DD:DA.
 
-PS: Use either ENB or Reshade.
-
-### Launching Ascalon
+### Launching Malignance
 
 This is assuming you didn't touch anything or you know what you're doing if you changed anything.
 
-1. Launch the copy of Mod Organizer 2 found inside your Ascalon folder.
+1. Launch the copy of Mod Organizer 2 found inside the modlist folder.
 2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Dragon's Dogma should be automatically selected. If it is not, select it.
 3. Click the large Run button.
 4. This is how you launch the modlist, don't launch it through Steam.
-5. The game will appear to be stuck for up to a minute, let it load.. that's ENB loading.
+5. ????
+6. Profit
+
+Oh by the way, my list uses Rootbuilder, so be patient.
 
 ### Contact
 
-While my DMs are generally always open, I'm **not**. Don't DM me for support or anything that is not already covered in the [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) or the [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md). Support for the list is done in the [Waking Dreams](https://discord.gg/WakingDreams) discord.. assuming you have the Ascalon role.
+If you have any questions for me, you can just ask me on Discord. As for DMs: they are open, but I simply won't look at them if they involve support or any other useless stuff. 
 
 ### Big Thanks
 
 - Everfall for influencing this list.
 - Both those currently in the Waking Dreams community and those that used to be.
-- The DD:DA modding community - you guys are insane.
+- The DD:DA modding community, The Rift.. FluffyQuack.. all the people across White Dragon Temple, Wyrm Hunt.. the people who put the work into making the archives easier to understand etc
 - Halgari - for making Wabbajack. Wouldn't have been possible otherwise.
 - You, made you look.
