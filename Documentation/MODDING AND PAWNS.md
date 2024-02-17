@@ -54,8 +54,6 @@ And then we have the ARCTool Output. This consists of these main archives: bbs_r
 
 **Some of the "enabled" mods do not do anything in Mod Organizer 2 if they are purely in loose form, as in they are an archive file unpacked - they are already merged, please don't touch any of them unless you know what you are doing**
 
-PS. I didn't mention this above, but uhm... considering my list isn't perfect.. the ARCTool Output also has the 'stages' from the base game copied into it, so it's a little bigger than it should and I'm not sure I needed to include these. The only mod I know that modifies the stage folder that i use is A Fortress Beieged but it only touches stage330.arc and not.. stage100-800 y'know? We'll leave it for now.
-
 ---
 
 ### A Deeper Look Into Archives
@@ -63,44 +61,21 @@ PS. I didn't mention this above, but uhm... considering my list isn't perfect.. 
 Here are some examples of what is possible to edit when unpacking some of these archives. The archive file "game_main.arc" contains the following from my knowledge:
 
 - Modifying Item Icons - `game_main\dl1\id\common\item\combinedItemIcon_ID.tex & .dds` 
-- Modifying Quest Rewards - `game_main\etc\questReward\questReward.qr (.xml)` 
+- Modifying Quest Rewards - `game_main\etc\questReward\questReward.qr (.xml)` - This isn't the Notice Board, only the story quests
 - Modifying Augment Effects - `game_main\param\pl\other\PlAbilityParam.ablparam (.xml)`
 - Modifying DP Cost for Vocation Ranks - `game_main\param\pl\JobLevel\JobLvNAME.joblvl (.xml)` 
 - Modifying Jump Height - `game_main\param\pl\other\PIJumpParam.ablparam (.xml)` 
 - Modifying Carry Weight - `game_main\param\pl\weight\manyfileshere.plw` 
 - Modifying Stamina Drain While Sprinting - `game_main\param\pl\stamina\PlStaminaDash.stm & PLStaminaDashAssassin.stm (.xml)`
-- Modifying Experience Rate - `game_main\param\pl\level\exp.plexp (.xml)` - I do not recommend
-- Modifying Weal and Prosperity - `game_main\param\status\player.statusparam (.xml)` - LINES 289 AND 297, DEFAULT 300 (5 MINUTES)
+- Modifying Experience Rate - `game_main\param\pl\level\exp.plexp (.xml)` 
+- Modifying Weal and Prosperity - `game_main\param\status\player.statusparam (.xml)` 
 - Modifying Stat Growth for Vocations - `game_main_param\pl\pl\level\LvNAME.lvl (.xml)` 
-
----
-
-## Experimental Mods 
-
-The extent of me allowing modifcations for my list is pretty much only the **Optional Mods** section and **this section**.
-
-To get started, go to where you installed the modlist, under the `tools` section you will have a file called *ARCTool Simplified.7z* - Extract this to a separate folder, you will be using this to unpack and repack archives.
-
-### Experimental Mods Cont.
-
-You'll find four mods/folders here:
-
-1. **DD:DA dinput8.dll hooks**: Essentially an editor It's required for Greatsword MAX and it will likely invalidate your pawn, but more on that later. It is installed as a root mod, so it can enabled without doing much else.
-2. **Greatsword MAX** : A mod that reworks Warrior moveset/skills. Requires dinput8. To install, merge its `game_main` folder into your game_main.arc and then enable the mod and dinput8 if you want to use it.
-3. **End Game Elemental Swords**: A mod I found recently that basically adds elemental damage to end-game weapons.. might invalidate a pawn. Might also be OP. To install, merge its `bbs_rpg` folder into your bbs_rpg.arc output.
-4. **DD:DA Tweak Templates**: The meat and potatoes of messing around with gameplay parameters. It features many versions I made for modifying Jump Height, Carry Weight, Stamina Drain while Sprinting and Quest Rewards. None of these should invalidate a pawn but I'm not responsible if they do. To install, pick only one version if any, and merge their `game_main` folder into your game_main.arc.
-
-Let's say that you hate sprinting costing Stamina, and you want it infinite. Head to `mods\DDDA Tweak Templates\Tweak Templates` and find the folder `Sprinting Tweaks` - pick the last folder labelled `Version 5 - No Stamina Cost`. Keep this explorer window active, but go to your ARCTool Output, find the **game_main.arc** file, copy it. Paste it into your folder you created for the ARCTool file and the other bat files. Double-click XFS_Extract, it should create a folder called game_main, a log folder, and another file for game_main responsible for telling itself how it's structured.
-
-Go to the other explorer window for the `Version 5 - No Stamina Cost`, open it until you see **game_main** in folder form, copy this folder, paste it into the one you unpacked. It should overwrite the param files for Sprinting. Now double-click XFS_Repack. Wait. Take the newly created game_main.arc and replace it with the one in the output, done. 
-
-BE SURE TO BACKUP YER FILES - I provided backups in `mods\DDDA Tweak Templates` if you fuck up.
 
 ---
 
 ## Warnings - Mods & Pawns
 
-**DISCLAIMER: REGARDLESS OF MY "OBSERVATIONS" BELOW .. BY READING THIS DISCLAIMER, YOU AGREE THAT IF YOU HAVE A PAWN WITH THEIR STATUS SET TO "ONLINE" WHILE USING THESE MODS IN THE "EXPERIMENTAL" MODS SECTION, YOU ARE STILL RUNNING A POTENTIAL RISK THAT YOUR PAWN MIGHT GET BONKED AND IT IS NOT MY PROBLEM BECAUSE THE GAME IS LIKE 6 YEARS OLD LOL** - yes.
+**DISCLAIMER: BY READING THIS DISCLAIMER, YOU AGREE THAT IF YOU DON'T READ EVERYTHING HERE, CHANCE IS.. IT'S NOT MY PROBLEM**
 
 I will cover which mods are safe for pawns, and which ones are not + which ones I am unsure about. In Dragon's Dogma, you can create companions called pawns, and you can share them online, where other people can rent them out and use them - which can benefit you the player as pawns have many mechanics to them. Most mods will affect pawns as they do you, because they use some of the same vocations, skills and systems. 
 
@@ -142,3 +117,7 @@ Invalidation of a pawn is only caused if you are playing with *certain* mods and
 NOW - Here's the funny thing. You are not safe to use these mods if someone hiring your pawn also has the mod. To explain further on that, if I decided to uhh.. archive some of these mods that invalidate pawns in the list, and some of you decided to hire each others pawns.. guess what? It is a game of how long until someone else using the list finds your pawn and well.. they both get corrupted! TRUE MULTIPLAYER
 
 So again, if you want to use this mods and be safe, just set your pawn to private! This should cover everything but don't be afraid to ask questions.
+
+## YO I WANT TO LEARN ABOUT THE OPTIONAL MODS
+
+Not exactly the wrong documentation, but you want to go to 
