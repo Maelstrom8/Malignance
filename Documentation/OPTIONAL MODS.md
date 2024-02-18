@@ -39,5 +39,6 @@ Better Augments is a mod I made that tweaks most of the augments, see the nexus 
 ### Installation
 
 Greatsword MAX -- Inside of `Loose Mod Files`, copy `game_main\param\pl\other\m_pl000_Gsword.ajp` into your unpacked game_main archive - follow the video above. Enable the mod (due to it having a rom folder)
+
 Better Augments -- Inside of `Loose Mod Files`, copy `game_main\param\pl\other\PIAbilityParam.ablparam.xml` into your unpacked game_main archive - follow the video above. You can enable it if you want but it doesn't NEED to be. THIS MOD IS NOT PAWN SAFE.
 
