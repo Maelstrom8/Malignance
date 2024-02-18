@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon%20WJ.webp)
 
 <p align="center">
-  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/README.md">Readme</a> |
+  [ <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/README.md">Readme</a> |
   <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/GAMEPLAY.md">Gameplay</a> |
   <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md">Modding & Pawns</a> |
   <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md">Optional Mods</a> |
