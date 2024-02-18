@@ -77,9 +77,9 @@ MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Downl
 
 If you don't do these steps, issues might arise..
 
-- Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/English.png)
-- Set Language to [English](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/English.png).
-- Disable the [Steam Overlay](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/Steam%20Overlay.png).
+- Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/Verify.png?raw=true)
+- Set Language to [English](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/English.png?raw=true).
+- Disable the [Steam Overlay](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/Steam%20Overlay.png?raw=true).
 
 ---
 
