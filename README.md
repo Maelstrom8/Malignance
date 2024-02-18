@@ -26,10 +26,10 @@
 - [Wabbajack Installation](#wabbajack-installation)
   - [Installing Wabbajack](#installing-wabbajack)
   - [Downloading and Installing Malignance](#downloading-and-installing-malignance)
-  - [Nexus Premium vs Non-Premium](##nexus-premium-vs-non-premium)
+  - [Nexus Premium vs Non-Premium](#nexus-premium-vs-non-premium)
 - [Save Files](#save-files)
-- [ENB](#enb)
-- [Launching Malignance](#launching-ascalon)
+- [ENB Reshade](#enb-reshade)
+- [Launching Malignance](#launching-malignance)
 - [Contact](#contact)
 - [Big Thanks](#big-thanks)
   
