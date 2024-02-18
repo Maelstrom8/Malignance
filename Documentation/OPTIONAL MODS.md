@@ -68,7 +68,7 @@ Just enable them. They function as normal mods, installed in a way they will ove
 
 #### Installation
 
-Just enable them. They function as normnal mods, installed in a way they will overwrite specific files when enabled. They might conflict with mods that touch the same textures/armors.
+Just enable them. They function as normal mods, installed in a way they will overwrite specific files when enabled. They might conflict with mods that touch the same textures/armors.
 
 ## Optional Mods - Core Tweaks
 These are my set of mods that I made, they're basically common tweaks people like to make.
