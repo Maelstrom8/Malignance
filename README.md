@@ -28,7 +28,7 @@
   - [Downloading and Installing Malignance](#downloading-and-installing-malignance)
   - [Nexus Premium vs Non-Premium](#nexus-premium-vs-non-premium)
 - [Save Files](#save-files)
-- [ENB Reshade](#enb-reshade)
+- [ENB / Reshade](#enb--reshade)
 - [Launching Malignance](#launching-malignance)
 - [Contact](#contact)
 - [Big Thanks](#big-thanks)
