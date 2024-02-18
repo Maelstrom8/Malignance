@@ -50,10 +50,10 @@ I recommend reading the entirety of the readme. If you don't, I will likely igno
 
 Malignance features a small amount of mods because the game doesn't really have a banging modding community, or should I say available tools. It's an old game.
 
-- If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Gameplay%20Documentation.md)
-- If you want to get into the modding aspects of this list - see [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md)
-- If you want to get into the optional mods - see LINK HERE
-- If there is anything else you are looking for, refer to the links at the very top?
+- If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/GAMEPLAY.md)
+- If you want to get into the modding aspects of this list - see [Modding & Pawns Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md)
+- If you want to get into the optional mods - see [Optional Mods Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md)
+- If there is anything else you are looking for, then keep looking?
 
 ## Requirements 
 
