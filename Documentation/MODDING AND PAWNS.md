@@ -65,9 +65,9 @@ Here are some examples of what is possible to edit when unpacking some of these 
 - Modifying Quest Rewards - `game_main\etc\questReward\questReward.qr (.xml)` - This isn't the Notice Board, only the story quests
 - Modifying Augment Effects - `game_main\param\pl\other\PlAbilityParam.ablparam (.xml)`
 - Modifying DP Cost for Vocation Ranks - `game_main\param\pl\JobLevel\JobLvNAME.joblvl (.xml)` 
-- Modifying Jump Height - `game_main\param\pl\other\PIJumpParam.ablparam (.xml)` 
+- Modifying Jump Height - `game_main\param\pl\other\PlJumpParam.ablparam (.xml)` 
 - Modifying Carry Weight - `game_main\param\pl\weight\manyfileshere.plw` 
-- Modifying Stamina Drain While Sprinting - `game_main\param\pl\stamina\PlStaminaDash.stm & PLStaminaDashAssassin.stm (.xml)`
+- Modifying Stamina Drain While Sprinting - `game_main\param\pl\stamina\PlStaminaDash.stm & PlStaminaDashAssassin.stm (.xml)`
 - Modifying Experience Rate - `game_main\param\pl\level\exp.plexp (.xml)` 
 - Modifying Weal and Prosperity - `game_main\param\status\player.statusparam (.xml)` 
 - Modifying Stat Growth for Vocations - `game_main_param\pl\pl\level\LvNAME.lvl (.xml)` 
