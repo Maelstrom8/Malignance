@@ -1,12 +1,12 @@
 <p align="center">
-  [ <a href="">Installation</a> |
-  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Gameplay%20Documentation.md">Gameplay Doc</a> |
-  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/Modding%20Documentation.md">Modding Doc</a> |
-  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/README.md">Readme</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/GAMEPLAY.md">Gameplay</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md">Modding & Pawns</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md">Optional Mods</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://ko-fi.com/maelstrom_">Ko-fi</a> ]
 </p>
-
 # Modding & Pawn Documentation
 
 I will cover a lot of things involving how to mod the game, how mods interact, what the effects are, and other things. It will be a bit long so get some fuckin snacks and shit cause this is gonna be like the superb owl of documentation
