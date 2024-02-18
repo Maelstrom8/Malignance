@@ -34,5 +34,14 @@ This is basically how I made a huge part of the list.
 #### Installation
 
 - **Greatsword MAX** -- Unpack the game_main.arc within the `Output` folder and replace `m_pl000_GSword.ajp` with the one from the mod (`Loose Mod Files\game_main\param\pl\other\m_pl000_GSword.ajp`). Enable the mod (due to it having a rom folder)
+
 - **Better Augments** -- Unpack the game_main.arc within the `Output` folder and replace `PlAbilityParam.ablparam.xml` with the one from the mod (`Loose Mod Files\game_main\param\pl\other\PIAbilityParam.ablparam.xml`). You can enable it if you want but it doesn't NEED to be. Not pawn safe.
 
+## Optional Mods - Item Modifications
+
+- [Shiny](https://www.nexusmods.com/dragonsdogma/mods/665?tab=description) - Adds stats to certain rings, I have the +25 version
+- [End Game Element Swords 1H](https://www.nexusmods.com/dragonsdogma/mods/857) - Add elemental damage to certain end game swords
+
+#### Installation
+
+Both of these mods edit the same file
