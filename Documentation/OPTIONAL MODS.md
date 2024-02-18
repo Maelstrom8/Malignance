@@ -13,11 +13,11 @@ If you haven't read up on my previous documentation regarding things with moddin
 
 **Disclaimer: all of these mods are optional and not enabled by default for a reason. Some of them could invalidate a pawn, some could not. I don't really offer support for them past what is already written, whether it's a github readme, a mod note or a nexus modpage readme**.
 
-## Optional Mods - Merging 
+## Optional Mods - Quick Merging Tutorial
 
-Before you do anything, go to `tools` and extract ARCTool Simplified to a working directory. Next.. watch this video.
+Before you do anything, go to `tools` and extract `ARCTool Simplified` to a working directory. To install most of these mods, you need back up and then copy *one or more* of the archives within the `Output` folder, place it inside your ARCTool folder, and double-click **XFS_Extract**. You will have a loose version. These need to be overwritten by these respective mods - you do that by just copying them and replacing the originals here. After you do that, double-click **XFS_Repack** and put it back into the `Output` folder.
 
-[video here]
+This is basically how I made a huge part of the list. 
 
 ## Optional Mods - Utilities
 
@@ -33,6 +33,6 @@ Before you do anything, go to `tools` and extract ARCTool Simplified to a workin
 
 #### Installation
 
-- **Greatsword MAX** -- Inside of `Loose Mod Files`, copy `game_main\param\pl\other\m_pl000_Gsword.ajp` into your unpacked game_main archive - follow the video above. Enable the mod (due to it having a rom folder)
-- **Better Augments** -- Inside of `Loose Mod Files`, copy `game_main\param\pl\other\PIAbilityParam.ablparam.xml` into your unpacked game_main archive - follow the video above. You can enable it if you want but it doesn't NEED to be. THIS MOD IS NOT PAWN SAFE.
+- **Greatsword MAX** -- Unpack the game_main.arc within the `Output` folder and replace `m_pl000_GSword.ajp` with the one from the mod (`Loose Mod Files\game_main\param\pl\other\m_pl000_GSword.ajp`). Enable the mod (due to it having a rom folder)
+- **Better Augments** -- Unpack the game_main.arc within the `Output` folder and replace `PlAbilityParam.ablparam.xml` with the one from the mod (`Loose Mod Files\game_main\param\pl\other\PIAbilityParam.ablparam.xml`). You can enable it if you want but it doesn't NEED to be. Not pawn safe.
 
