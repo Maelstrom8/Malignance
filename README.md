@@ -25,7 +25,7 @@
   - [Steam Setup](#steam-setup)
 - [Wabbajack Installation](#wabbajack-installation)
   - [Installing Wabbajack](#installing-wabbajack)
-  - [Downloading and Installing Ascalon](#downloading-and-installing-ascalon)
+  - [Downloading and Installing Malignance](#downloading-and-installing-malignance)
   - [Nexus Premium vs Non-Premium](##nexus-premium-vs-non-premium)
 - [Save Files](#save-files)
 - [ENB](#enb)
