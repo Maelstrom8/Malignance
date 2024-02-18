@@ -21,21 +21,15 @@ Before you do anything, go to `tools` and extract ARCTool Simplified to a workin
 
 ## Optional Mods - Utilities
 
-- [dinput8](https://www.nexusmods.com/dragonsdogma/mods/96).
-
-This mod can be viewed as an editor of some sorts. I don't use it but it could be useful. Required for [Greatsword MAX](https://www.nexusmods.com/dragonsdogma/mods/474).
+- [dinput8](https://www.nexusmods.com/dragonsdogma/mods/96) - A mod that can be viewed as an editor of some sorts. I don't use it but it could be useful. Required for [Greatsword MAX](https://www.nexusmods.com/dragonsdogma/mods/474).
 
 ### Installation
 - **dinput8** -- Just enable it, it's installed as a root mod. You will likely have to configure the settings. Pawn safe? No idea
 
 ## Optional Mods - Skills & Augments
 
-- [Greatsword MAX](https://www.nexusmods.com/dragonsdogma/mods/474)
-- [Better Augments](https://www.nexusmods.com/dragonsdogma/mods/1010)
-
-**Greatsword MAX** is a mod that overhauls Warrior skills. Requires dinput8. Probably cool, never used it
-
-**Better Augments** is a mod I made that tweaks most of the augments, see the nexus page for more info
+- [Greatsword MAX](https://www.nexusmods.com/dragonsdogma/mods/474) -- A mod that overhauls Warrior skills. Requires dinput8. Probably cool, never used it
+- [Better Augments](https://www.nexusmods.com/dragonsdogma/mods/1010) -- A mod I made that tweaks most of the augments, see the nexus page for more info
 
 ### Installation
 
