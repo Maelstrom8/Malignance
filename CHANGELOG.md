@@ -17,14 +17,37 @@
 - [0.1.5](#015)
 - [0.1.5.1](#0151)
 - [0.1.8](#018)
+- [2.0.0](#200)
+
 
 ### Information
 
  - The following changelog should give you an idea of what mods I use, add or remove.. etc
 
+## 2.0.0
+
+### Changelog
+
+- The modlist went through some minor changes, the modlist name was changed, the structure of the modlist was re-made from scratch and I added some more mods and made an additional document to read. Details below.
+
+#### Added
+
+- Vignette Remover (pre-modded)
+- Remove Screenshot Watermark
+- Aelinore/Quinoa hair replacers
+- The Modding Documentation has been split two separate documents.. [Modding and Pawns](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md) and [Optional Mods](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md)
+- All of mods I deemed "optional" or "experimental" are now under an MO2 category named `[OPTIONAL MODS]`, with a note that directs you to the [Optional Mods](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md) documentation.
+- A handful of new Optional Mods - disabled by default. Requires reading comprehension. Also there are some mods the list used to have enabled by default were moved to this section (such as Pawn Stars)
+- E3FX Reshade
+
+#### Removed
+
+- ENBSeries (didn't feel like setting it back up)
+
+
 ## 0.1.8
 
-### Added / Removed
+### Changelog
 
 - Nothing was technically added or removed, but I moved `Pawn Stars` to the Optional section because that mod replaces offline pawns with entirely female pawns. I recommend checking the mod's description on Nexus. You can enable/disable at any point.
 
@@ -34,7 +57,9 @@
 
 ## 0.1.5.1
 
-### Added
+### Changelog
+
+#### Added
 
 - With Fire (Reshade Preset)
     - For those who have trouble loading with ENB, or have a different taste for visuals
