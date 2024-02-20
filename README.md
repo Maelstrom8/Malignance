@@ -78,9 +78,9 @@ MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Downl
 
 If you don't do these steps, issues might arise..
 
-- Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/Verify.png?raw=true)
-- Set Language to [English](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/English.png?raw=true).
-- Disable the [Steam Overlay](https://github.com/Oghma-Infinium/Malignance/blob/main/Media/Steam%20Overlay.png?raw=true).
+- Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/Verify.png)
+- Set Language to [English](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/English.png).
+- Disable the [Steam Overlay](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/Steam%20Overlay.png).
 
 ---
 
@@ -97,7 +97,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
 3. Find Maligance, click the download button below the gallery image and wait for it to download.
-4. Set the installation folder to be somewhere like C:\Games\Maligance. Follow the directory rules above.
+4. Set the installation folder following the directory rules above, the downloads don't have to be on the same place
 5. Press the play button to begin.
 6. In the small time it takes to install, I recommend you spend your time reading this readme - as it's more important than your average readme
 7. ???
@@ -107,7 +107,7 @@ Updating the list is done the same way, just make sure your directories match wh
 
 ### Nexus Premium vs Non-Premium
 
-If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
+If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. There's like 60 of them, so it's not too bad.. until you download the 3.7GB Vignette removing mod because it really couldn't have been done any more inconveniently. I recommend having Premium in this day of age, though.
 
 ---
 
