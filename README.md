@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/ListBanner.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/ListBanner.webp)
 
 <p align="center">
   [ <a href="https://github.com/Oghma-Infinium/Malignance/blob/main/README.md">Readme</a> |
