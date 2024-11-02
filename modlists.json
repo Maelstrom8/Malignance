@@ -4,8 +4,7 @@
     "description": "A lightly modded list for Dragon\u0027s Dogma: Dark Arisen that serves as a base for extensive modding and customization.",
     "author": "Maelstrom",
     "maintainers": [
-      "github/Maelstrom8",
-      "github/bingusthecatto"
+      "github/Maelstrom8"
     ],
     "game": "dragonsdogma",
     "official": false,
