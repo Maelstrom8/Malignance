@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Malignance",
+    "description": "A lightly modded list for Dragon\u0027s Dogma: Dark Arisen that serves as a base for extensive modding and customization.",
+    "author": "Maelstrom",
+    "maintainers": [
+      "github/Maelstrom8",
+      "github/bingusthecatto"
+    ],
+    "game": "dragonsdogma",
+    "official": false,
+    "tags": [
+      "They\u0027re Masterworks All You Can\u0027t Go Wrong",
+      "Educational",
+      "Customization"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/ListBanner.webp",
+      "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_d841621d-599e-4249-9fc6-7f212a17ef76",
+      "machineURL": "malignance",
+      "discordURL": "https://discord.gg/wakingdreams"
+  }
+]
