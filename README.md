@@ -11,7 +11,7 @@
 </p>
 
 > [!IMPORTANT]
-> Modlist Support is extremely limited if not non-existant. I hate the concept of taking the time to write up documentation only to answer questions. This documentation IS MY METHOD OF SUPPORT. If it doesn't answer your questions, you're on your own. Period. It is an old game, and it is annoying to mod.
+> Modlist Support is extremely limited. I spent a lot of time putting together this documentation, I didn't do it just to repeat myself. If you have any questions, refer to this documentation. If it doesn't answer your questions, you're pretty much on your own.
 ---
 
 # Table of Contents
