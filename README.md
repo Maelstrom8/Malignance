@@ -10,13 +10,9 @@
   <a href="https://ko-fi.com/maelstrom_">Ko-fi</a> ]
 </p>
 
+> [!IMPORTANT]
+> Modlist Support is extremely limited if not non-existant. I hate the concept of taking the time to write up documentation only to answer questions. This documentation IS MY METHOD OF SUPPORT. If it doesn't answer your questions, you're on your own. Period. It is an old game, and it is annoying to mod.
 ---
-
-# Installation
-
-**Modlist Support: [Waking Dreams](https://discord.gg/WakingDreams)** 
-
-***Select the Malignance role in the Channels and Role tab***
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -37,13 +33,7 @@
 
 ## Introduction
 
-Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that is designed to be a base for extensive tweaking/customization. This is basically just Ascalon but slightly revised. I previously tossed this in the garbage due to the fact that Dragon's Dogma II is releasing in less than 2 months and I would likely not really care at all about it anymore, but I have decided to instead re-do the entire list and keep it up because it's extremely easy to maintain.
-
-I recommend reading the entirety of the readme. If you don't, I will likely ignore you even more than usual if you have any questions that I potentially cover.
-
-***WARNING***: 
-
-**If you are going to *modify* the list, it is imperative that you read this entire readme and all documentation top to bottom - even two times if you need to. This game has online features (the pawn sharing), depending on certain conditions.. if you modify certain parts of the game, bad things can happen to your Pawn. I won't and honestly can't be held responsibie.**
+Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that is designed to be a base for extensive tweaking/customization. It was previously called Ascalon. It was also previously taken off Wabbajack and made unavailable, but ever since I started playing a little bit of Dragon's Dogma 2 and Dragon's Dogma Online, I thought I should update this and bring it back online.
 
 ---
 
@@ -55,6 +45,8 @@ Malignance features a small amount of mods because the game doesn't really have 
 - If you want to get into the modding aspects of this list - see [Modding & Pawns Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md)
 - If you want to get into the optional mods - see [Optional Mods Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md)
 - If there is anything else you are looking for, then keep looking?
+
+
 
 ## Requirements 
 
