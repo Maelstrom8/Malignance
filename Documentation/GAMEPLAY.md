@@ -61,7 +61,7 @@ These contain texture improvements for Gran Soren and Gransys. The resolution is
 
 ## Visuals
 
-- The list comes with two Reshade presets: E3FX and With Fire. I use E3FX by default. I included the ENB Binary but I have no preset. I don't use it because it causes the game to load slower.
+- The list comes with two Reshade presets: E3FX and With Fire. I use E3FX by default. I included the ENB Binary but I have no presets for it. I don't use it because it causes the game to load slower.
 
 ---
 
