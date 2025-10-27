@@ -92,8 +92,6 @@ Updating the list is done the same way, just make sure your directories match wh
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. There's like 60 of them, so it's not too bad.. until you download the 3.7GB Vignette removing mod because it really couldn't have been done any more inconveniently. I recommend having Premium in this day of age, though.
 
----
-
 ## Save Files
 
 ### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it, whether or not you have mods. This modlist is designed for a new save**
