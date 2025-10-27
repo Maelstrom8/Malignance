@@ -21,20 +21,20 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Maelstrom8/Malignance/main/Media/ListBanner.webp",
       "readme": "https://github.com/Maelstrom8/Malignance/blob/main/README.md",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_436a3f66-2b86-41b6-9d59-2646678a7d9e",
       "machineURL": "malignance",
       "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
-    },
-    "version": "1.0"
+      "Hash":"gtoWqaleYes=",
+      "Size":3275914,
+      "NumberOfArchives":76,
+      "SizeOfArchives":5967187124,
+      "NumberOfInstalledFiles":3350,
+      "SizeOfInstalledFiles":6001492827,
+      "TotalSize":11968679951,
+      "version": "3.0"
   }
 ]
 
