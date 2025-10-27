@@ -16,7 +16,6 @@
 
 # Table of Contents
 - [Introduction](#introduction)
-- [Information](#information)
   - [Requirements](#requirements)
 - [Pre-Installation](#pre-installation)
   - [Steam Setup](#steam-setup)
@@ -31,22 +30,16 @@
 - [Big Thanks](#big-thanks)
   
 
-## Introduction
+# Introduction
 
 Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that is designed to be a base for extensive tweaking/customization. It was previously called Ascalon. It was also previously taken off Wabbajack and made unavailable, but ever since I started playing a little bit of Dragon's Dogma 2 and Dragon's Dogma Online, I thought I should update this and bring it back online.
 
----
+Dragon's Dogma isn't a very popular game for modding. It's an old game and it was really annoying to mod. I don't have a ton of mods, but I tried my best to make it customizable for the user.
 
-## Information
-
-Malignance features a small amount of mods because the game doesn't really have a banging modding community, or should I say available tools. It's an old game.
-
-- If you want to see which mods are being used and some details on them - see [Gameplay Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/GAMEPLAY.md)
+- If you want to see which mods are being used and what merged mods mean - see [Gameplay Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/GAMEPLAY.md)
 - If you want to get into the modding aspects of this list - see [Modding & Pawns Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/MODDING%20AND%20PAWNS.md)
 - If you want to get into the optional mods - see [Optional Mods Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md)
-- If there is anything else you are looking for, then keep looking?
-
-
+- If there is anything else you are looking for, it's probably not on this documentation.
 
 ## Requirements 
 
@@ -58,7 +51,7 @@ Malignance features a small amount of mods because the game doesn't really have 
   
 #### System Requirements
 
-The game is over 7 years old. It's not that demanding of a game, at all.. even with mods. Have something that isn't a potato and you'll be fine. 
+The game is over 9 years old. It's not that demanding of a game, at all.. even with mods. Have something that isn't a potato and you'll be fine. 
 
 ## Pre-Installation
 
