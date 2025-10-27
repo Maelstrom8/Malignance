@@ -49,7 +49,7 @@ Dragon's Dogma isn't a very popular game for modding. It's an old game and it wa
    - 20 GB for Dragon's Dogma: Dark Arisen
    - 16 GB for the list (8 GB download and 8 GB install)
   
-#### System Requirements
+### System Requirements
 
 The game is over 9 years old. It's not that demanding of a game, at all.. even with mods. Have something that isn't a potato and you'll be fine. 
 
@@ -66,8 +66,6 @@ If you don't do these steps, issues might arise..
 - Making sure your game is clean / unmodified. If it's not, you can [verify your files](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/Verify.png)
 - Set Language to [English](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/English.png).
 - Disable the [Steam Overlay](https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/Steam%20Overlay.png).
-
----
 
 ## Wabbajack Installation
 
@@ -105,8 +103,6 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 ## ENB / Reshade
 
 Due to the fact that I am not really a visuals snob and think the game looks good enough, I didn't really bother much in this department.
-
-I provided two separate Reshade presets that people can mess around with, but that's it. If you have any questions, don't ask them to me because this isn't something I really care about (learning) for DD:DA.
 
 ### Launching Malignance
 
