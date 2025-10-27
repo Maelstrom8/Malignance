@@ -45,9 +45,9 @@ Dragon's Dogma isn't a very popular game for modding. It's an old game and it wa
 
 - A legitimate and unmodified copy of Dragon's Dogma: Dark Arisen through Steam. I do not support GOG and never will.
 - Preferably a fresh save, do not use your existing saves with this modlist (more explained later)
-- You need around 36 GB of space for this list
+- You need around ~30 GB of space for this list
    - 20 GB for Dragon's Dogma: Dark Arisen
-   - 16 GB for the list (8 GB download and 8 GB install)
+   - ~11 GB for the list (5.5 GB download + 5.5 GB install)
   
 ### System Requirements
 
