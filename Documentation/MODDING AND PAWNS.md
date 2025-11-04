@@ -21,7 +21,7 @@ Mod Organizer 2 can actually manage the game fairly well, but there are mods ins
 1) Mods that are installed normally, such as texture mods. An example is `Oblivion Armor - 4K`
 2) Mods that are installed as loose files and enabled. They were already merged into the main archives. They do nothing as an enabled mod by itself. They exist to tell you that I use it. An example is `Easy Clothing IDs with HD Icons`
 3) Mods that have one part of it that is installed normally, and another part that needs to be merged into some archive. An Example is `Dragon's Dogma Main Menu - Coils of Light`
-4) All the mods in the optional mods category that are disabled, and even if enabled wouldn't do anything. They need to be merged and required special instructions.
+4) All the mods in the optional mods category that are disabled, and even if enabled wouldn't do anything. They need to be merged and [require special instructions](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/OPTIONAL%20MODS.md)
 
 
 ## Archive Files, Mods and You
@@ -82,50 +82,31 @@ Advanced information on these could be found from some of my MME series mods.
 
 ---
 
-## Warnings - Mods & Pawns
+## Warnings - Mods vs Online Pawns
 
-**DISCLAIMER: BY READING THIS DISCLAIMER, YOU AGREE THAT IF YOU DON'T READ EVERYTHING HERE, CHANCE IS.. IT'S NOT MY PROBLEM**
+In Dragon's Dogma II, there is a clientside check for some things, and if you happen to get your pawn blocked it can be undone easily I believe. In Dragon's Dogma: Dark Arisen, I do not really much about this area. I did some testing with an alt with this modlist, and after I modified a Warrior augment, I couldn't see my pawn. It was Vigilance and I barely touched it.
 
-I will cover which mods are safe for pawns, and which ones are not + which ones I am unsure about. In Dragon's Dogma, you can create companions called pawns, and you can share them online, where other people can rent them out and use them - which can benefit you the player as pawns have many mechanics to them. Most mods will affect pawns as they do you, because they use some of the same vocations, skills and systems. 
+Here is a checklist that I made from guesses and assumptions. I don't really know. If in doubt, set your pawn to private. [Pawn Share Settings](https://www.nexusmods.com/dragonsdogma2/mods/1057) mod for DD2 shows some insight on what the game checks for, so it might be similar to DD:DA.
 
-Any modifications done to a pawn that is considered "not-achievable" by legitimate means will result in a pawn being invalidated or basically, the pawn will show up as corrupt data and cannot be hired by others. You must start a new game to get around this.
-
-### MODS THAT WILL INVALIDATE A PAWN OR WILL LIKELY DO SO
+### What could possibly invalidate / block a pawn from being seen
 
 - Modifying the effects of the Augments of the six base vocations (Fighter, Warrior, Strider, Ranger, Mage, Sorcerer)
-    - Eg. You change `Vigilance` to be give even ONE HP higher than it should. Doesn't matter.
-- Modifying the Stat Growth of the six default vocations
+- Modifying the Stat Growth of the six default vocations ^
 - Changing or giving max Knowledge to a Pawn
 - Changing the cost of Augments
-  - Not confirmed but likely
 - Changing the DP cost for Vocation Ranks
-  - Not confirmed but likely
 - Using dinput8.dll or certain parts of it
-  - Not confirmed but definitely likely..
-- Changing the stats of base weapons
-  - Not confirmed but likely
+- Changing the stats of base weapons / armor
 
-### MODS THAT I DON'T THINK WILL INVALIDATE A PAWN
-
-Considering that param modifications apply to both player and pawn, there are some that affect pawns in a literal way, but not in an online sense?
+### What doesn't invalidate / block a pawn from being seen
 
 - Changing Carry Weight
-  - Might affect them too but not confirmed if it invalidates a pawn
 - Changing Jump Height
-  - It affects a pawn in a literal sense but not confirmed if it invalides a pawn
 - Changing Stamina drain while sprinting
   - It does not affect a pawn since they don't use stamina
 - Changing Hybrid Vocations
   - It does not affect pawns because they don't use hybrid vocations
  - Changing Quest Rewards does not affect pawns in any way
-
-## Notes on Pawn Invalidation
-
-Invalidation of a pawn is only caused if you are playing with *certain* mods and have your pawn-sharing-status set to Online and someone else with the same mod finds your pawn (?). How the detection roughly works is that if you are not using a list, and are using for example.. an Augment tweak mod, it is totally fine client-side. The augments only change on your end, but once you send the pawn back, no mods are going through the server - because the other person doesn't have mods.. right?
-
-NOW - Here's the funny thing. You are not safe to use these mods if someone hiring your pawn also has the mod. To explain further on that, if I decided to uhh.. archive some of these mods that invalidate pawns in the list, and some of you decided to hire each others pawns.. guess what? It is a game of how long until someone else using the list finds your pawn and well.. they both get corrupted! TRUE MULTIPLAYER
-
-So again, if you want to use this mods and be safe, just set your pawn to private! This should cover everything but don't be afraid to ask questions.
 
 ## YO I WANT TO LEARN ABOUT THE OPTIONAL MODS
 
